@@ -6,8 +6,11 @@ keywords:
         transformer: 3
         attention: 3
         kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        anomaly detection: 3
+        GPT: 3
+        GAN: 3
+        VAE: 3
+        
 
 # 通知の閾値
 score_threshold: 0
